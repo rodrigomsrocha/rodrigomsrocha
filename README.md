@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Rodrigo
+<img src="https://github.com/rodrigomsrocha/rodrigomsrocha/blob/master/banner.jpg">
 
 <!--
 **rodrigomsrocha/rodrigomsrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
