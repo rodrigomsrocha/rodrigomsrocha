@@ -2,8 +2,9 @@
 
 <p align="center">A Front-End developer</p>
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rodrigomsrocha&show_icons=true&theme=dracula&border-color="#84e")
+
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Rodrigo54556666)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/c0c0d3p3r4/)
 ![Snake animation](https://github.com/rodrigomsrocha/rodrigomsrocha/blob/output/github-contribution-grid-snake.svg)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rodrigomsrocha)
