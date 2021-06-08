@@ -1,4 +1,4 @@
-<img src="https://github.com/rodrigomsrocha/rodrigomsrocha/blob/master/banner.jpg" height="200em">
+<img src="https://github.com/rodrigomsrocha/rodrigomsrocha/blob/master/banner.jpg" align="center">
 
 <!--
 **rodrigomsrocha/rodrigomsrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
