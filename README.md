@@ -1,6 +1,6 @@
 <img src="https://github.com/rodrigomsrocha/rodrigomsrocha/blob/master/banner.jpg" align="center">
 
-<p align="center">A Front-End developer</p>
+<h2 align="center">A Front-End developer</h2>
 
 <hr />
 
@@ -9,6 +9,7 @@
 
 
 <div>
+  <a href="https://github/rodrigomsrocha"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigomsrocha&show_icons=true&theme=dracula&title_color='#84e'"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomsrocha&layout=compact&langs_count=16&theme=dracula&title_color='#84e'"/>
 </div>
