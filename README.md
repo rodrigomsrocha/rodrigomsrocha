@@ -9,10 +9,11 @@ Olá! Eu sou um estudante de Ciência da Computação na PUC Minas e desenvolved
 [<img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.instagram.com/c0c0d3p3r4/](https://www.linkedin.com/in/rodrigo-rocha-547585214))
 
 
-<div>
+<div align="center">
   <a href="https://github.com/rodrigomsrocha"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigomsrocha&show_icons=true&theme=dracula&title_color='#84e'"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomsrocha&layout=compact&langs_count=16&theme=dracula&title_color='#84e'"/>
 </div>
-
-![Snake animation](https://github.com/rodrigomsrocha/rodrigomsrocha/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img height="180em" src="https://github.com/rodrigomsrocha/rodrigomsrocha/blob/output/github-contribution-grid-snake.svg"/>
+</div>
